@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abhayendra27
 - 👀 I’m interested in Coding and Programming
-- 🌱 I’m currently learning  full stack WEB development 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning  full stack WEB development,DSA,Reactjs and always ready to learn something new.... 
 - 📫 How to reach intaprofile@its_abhay27 
 
 <!---
